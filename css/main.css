@@ -1,0 +1,193 @@
+﻿body {
+	font: normal 12px/17px Verdana, Geneva, sans-serif; 
+	color:#333;
+	margin:0px;
+	padding:0px;
+	line-height:25px;
+}
+
+.topHeaderDiv {
+	background-color:#6D0D00;
+	height:40px;
+	border-radius:5px 5px 0px 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding-left:0px;
+    margin-top:10px;
+    overflow:hidden;
+    font-size:13px;
+    height:30px;
+    color: #333;
+    background-color:#6D0D00;     
+}
+li {
+	float:right;
+	height:30px;
+	color:#333;	
+	font-size:13px;
+	vertical-align:middle;
+	background-color:#BD3220;	
+	margin-right:5px;
+	border-radius:3px 3px 3px 3px;
+}
+li a {
+    display: block;
+    height:30px;
+    padding:14px 10px 0px 10px;
+    color:White;
+    text-align:center;
+    vertical-align:middle;
+    text-decoration:none;
+    font-size:13px;
+}
+li a:hover {
+	text-align:center;
+    vertical-align:middle;
+    text-decoration:none;
+    font-size:13px;
+	padding:14px 10px 0px 10px;	
+	color:White;
+    background-color:#AA2D1D;
+    text-decoration:none;
+    border-radius:3px 3px 3px 3px;
+}
+.active {
+	height:30px;
+	color:#ffc1b9;
+    background-color:green;
+}
+a {
+	color:#6D0D00; text-decoration:none;
+}
+a:hover {
+	color:#cccccc;
+	text-decoration:none;
+}
+
+
+/*Title CSS*/
+.pageTitle {PADDING-BOTTOM: 7px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; margin-bottom:5px; FONT: 16px Verdana; COLOR: #BD3220; PADDING-TOP: 0px;}
+
+/*Form Design CSS*/
+.tblView {TABLE-LAYOUT: fixed; BORDER-TOP: #BD3220 1px solid;}
+.tblView TH {BORDER-BOTTOM: #e4e4e4 1px solid; TEXT-ALIGN: left; BACKGROUND: #f5f5f5; HEIGHT: 34px; FONT: bold 11px Tahoma; COLOR: #305B7F; padding: 0px 0px 0px 10px; line-height:19px;}
+.tblView TD.td {BORDER-BOTTOM: #e4e4e4 1px solid; PADDING: 3px 0px 3px 15px; FONT: 12px Verdana; HEIGHT: 34px; COLOR: #666;}
+.tableView tr td:hover {}
+
+.tblView TD A {}
+.tblView TD A:hover {}
+.tblView TD .add {WIDTH: 28px; DISPLAY: inline-block;}
+.tblView TD .add02 {TEXT-ALIGN: right; WIDTH: 46px; DISPLAY: inline-block;}
+.tblView TD INPUT.txtClass {BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana; BACKGROUND: #f2f2f2; HEIGHT: 24px; COLOR: #666666; FONT-SIZE: 12px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 0px;}
+.tblView TD INPUT.txtRequiredClass {BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana; BACKGROUND: #f8f5ed; HEIGHT: 24px; COLOR: #666666; FONT-SIZE: 12px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 0px;}
+
+.tblView TD INPUT[disabled].txt {BACKGROUND: Red}
+
+.tblView TD INPUT[readonly].txt {BACKGROUND: #f2f2f2;}
+.tblView .tdrow01 {PADDING-BOTTOM: 7px; PADDING-TOP: 7px;}
+.tblView TD .deliveryBox {TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; WIDTH: 196px; PADDING-RIGHT: 0px; HEIGHT: 40px; COLOR: #ccc; FONT-SIZE: 11px; PADDING-TOP: 0px;}
+.tblView TD .tdrowfl {WIDTH: 250px; DISPLAY: inline; FLOAT: left;}
+.tblView TD .tdrowfr {TEXT-ALIGN: right; MARGIN: 0px 20px 0px 0px; WIDTH: 350px; DISPLAY: inline; FLOAT: right;}
+.tblView TD .textareaWrap {}
+.tblView TD .textareaView {PADDING-BOTTOM:30px; OVERFLOW-X:auto; MIN-HEIGHT:30px; PADDING-LEFT:20px; WIDTH:769px; PADDING-RIGHT: 20px; FONT: 12px/1.9em Verdana; COLOR: #888; OVERFLOW: hidden; PADDING-TOP: 30px;}
+
+
+/*GridView TABLE CSS*/
+table.infotable {margin-bottom:15px;text-align:left; font:12px normal Arial,Verdana,sans-serif; font-weight:normal;}
+table.infotable  tr td, table.infotable tr th {border-bottom:1px solid #DDDDDD;line-height:normal;padding:5px 0px 5px 6px;text-align:left;}
+table.infotable thead tr {background-color:#f5f5f5;}
+table.infotable th {font-weight:bold; color: #305B7F; background-color:#f5f5f5; padding:5px 0px 5px 5px; height:20px; line-height:26px; font-size:11px;}
+table.infotable tbody tr.selected {background-color:#EAF8DF}
+.tableactions {float:left;}
+.tableactions select {height:22px;}
+table.infotable  tr td a {color:#6587eb; text-decoration:underline;}
+table.infotable  tr td a:hover, a.action.active {text-decoration:none;}
+.gFooter {color:#990000;}
+
+
+/*Grid Paging CSS*/
+.pagination {font-size: 11px;font-weight: bold;padding-bottom: 15px;padding-top: 15px;border-top: 1px solid #eee;}
+.pagination.floatright {float:right;text-align: right;padding-top:0;border: 0;width: 500px;overflow: hidden;}
+.pagination a{display:inline-block;height:23px;padding:0 0 0 3px;color:#333 !important;background:url(../images/minibutton_matrix.png) 0 0 no-repeat;white-space:nowrap;border:none;overflow:visible;cursor:pointer;text-decoration:none !important;margin-bottom:5px;}
+.pagination a > span{display:block;height:23px;padding:0 10px 0 8px;line-height:23px;background:url(../images/minibutton_matrix.png) 100% 0 no-repeat;}
+.pagination a:hover, .pagination a.active {color:#fff !important;text-decoration:none;background-position:0 -30px;}
+.pagination a:hover > span, .pagination a.active > span {background-position:100% -30px;}
+
+/*ASP.NET Controls CSS*/
+.drpClass {color:#817c7c;height:26px;line-height:27px;background:white url(../images/bkDrp.png) repeat-x top right; padding:1px;border-top:1px solid #8d8e8d;border-left:1px solid #8d8e8d;	border-right:1px solid #e0e1e0;	border-bottom:1px solid #e0e1e0; font-size:12px;}
+.rblClass {border:Solid 0px White; height:22px; font-size:12px; border-bottom:none;}
+.rblClass input {border:Solid 0px White; height:22px; font-size:12px; border-bottom:none;}
+
+/*Validation Controls CSS*/
+form span.valid-side-note, form span.invalid-side-note {margin-left:5px; padding:0 0 0 18px; background-repeat:no-repeat; background-position:left 1px; font-size:12px;}
+form span.valid-side-note { background-image:url('../images/icons/icon_notification_success.png') }
+form span.invalid-side-note { background-image:url('../images/icons/icon_notification_error.png'); }
+input.valid { border-color:#549a2a; }
+input.invalid { border-color:#ae432e; }
+
+/*Button Background CSS*/
+.btnClass { border-radius: 3px; background-color:#BD3220; color:White; height:26px; border:Solid 1px #BD3220;}
+.btnClass:hover{ border-radius: 3px; background-color:#6D0D00; color:White; height:26px; border:Solid 1px #6D0D00;}
+
+.btnNav { border-radius: 3px; background-color:#6D0D00; color:White; height:26px; border:Solid 1px #6D0D00;}
+.btnNav:hover{ border-radius: 3px; background-color:#BD3220; color:White; height:26px; border:Solid 1px #BD3220;}
+
+/*Message CSS*/
+.message {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding: 0px 0px 0px 20px; position:relative;margin:2px 0px 2px 0px;cursor:pointer; vertical-align:middle;}
+.message.success {color:#539B2D;background-color:#EBF8D6;background:url("../images/icons/icoSuccess.png") 0px 0px no-repeat; line-height:22px;}
+.message.warning {background-color:#FEFDE2;color:#666666;background:url("../images/icons/icoWarning.png") 0px 0px no-repeat; line-height:22px;}
+.message.error {background-color:#FFECE6;color:#842100;background:url("../images/icons/icoError.png") 0px 0px no-repeat; line-height:22px;}
+.message.information {background-color:#D3EEF1;color:#369CAB;background:url("../images/icons/icoInformation.png") 0px 0px no-repeat; line-height:22px;}
+
+/*Modal Background*/
+.modalBackground {background-color:Black;filter:alpha(opacity=50);opacity:0.5;}
+
+/*Paging Seperator*/
+.pagingClass {font-size:12px; height:26px; vertical-align:bottom;}
+.pagingClass a {margin:2px; padding:5px 5px 5px 5px; clear:both; vertical-align:middle;}
+
+/*LinkButton CSS*/
+.lbtnAddClass {background-image:url(../images/icoAddRecord.png); padding-left:20px; background-repeat:no-repeat; background-position:left; margin-bottom:5px;}
+.lbtnPrintClass {background-image:url(../images/icoPrintRecord.png); padding-left:20px; background-repeat:no-repeat; background-position:left; margin-bottom:5px;}
+.lbtnViewClass {background-image:url(../images/icoViewRecord.png); padding-left:20px; background-repeat:no-repeat; background-position:left; margin-bottom:5px; font-size:12px;}
+.lbtnShowClass {background-image:url(../images/icoViewRecord.png); padding-left:20px; background-repeat:no-repeat; background-position:left; margin-bottom:5px;}
+.lbtnSearchClass {background-image:url(../images/icoSearchRecord.gif); padding-left:20px; background-repeat:no-repeat; background-position:left; margin-bottom:5px;}
+t
+/*Gridview Sorting CSS*/
+.sortAsc {background-image: url(../images/asc.gif);background-repeat: no-repeat;background-position: center right;cursor: pointer;}
+.sortDesc {background-image: url(../images/desc.gif);background-repeat: no-repeat;background-position: center right;cursor: pointer;}
+
+/*TextBox Class*/
+.txtRequiredClass {BORDER: #cccccc 1px solid; LINE-HEIGHT: 30px; FONT-FAMILY: Verdana; BACKGROUND: #f8f5ed; HEIGHT: 30px; COLOR: #666666; FONT-SIZE: 12px; PADDING:5px; margin:2px 0px 4px 0px;}
+.txtClass {BORDER: #cccccc 1px solid; LINE-HEIGHT: 30px; FONT-FAMILY: Verdana; BACKGROUND: #f2f2f2; HEIGHT: 30px; COLOR: #666666; FONT-SIZE: 12px; PADDING: 5px; margin:2px 0px 4px 0px;}
+
+/*Hide GridView Column Class*/
+.hideGridColumn {display:none;}
+
+
+/*Form Design CSS*/
+.tblDetailView {TABLE-LAYOUT: fixed; BORDER-TOP: #c6591e 1px solid;}
+.tblDetailView TH {BORDER-BOTTOM: #e4e4e4 1px solid; TEXT-ALIGN: left; BACKGROUND: #f5f5f5; HEIGHT: 34px;}
+.tblDetailView TD.td {BORDER-BOTTOM: #ededed 1px solid; PADDING-LEFT: 10px; FONT: 12px/18px Verdana; HEIGHT: 28px; COLOR: #666;}
+.tblDetailView TD A {}
+.tblDetailView TD A:hover {}
+.tblDetailView TD .add {WIDTH: 28px; DISPLAY: inline-block;}
+.tblDetailView TD .add02 {TEXT-ALIGN: right; WIDTH: 46px; DISPLAY: inline-block;}
+.tblDetailView TD INPUT.txtClass {BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana; BACKGROUND: #f2f2f2; HEIGHT: 24px; COLOR: #666666; FONT-SIZE: 12px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 0px;}
+.tblDetailView TD INPUT.txtRequiredClass {BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 13px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Verdana; BACKGROUND: #f8f5ed; HEIGHT: 24px; COLOR: #666666; FONT-SIZE: 12px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 0px;}
+.tblDetailView TD INPUT[disabled].txt {BACKGROUND: Red}
+.tblDetailView TD INPUT[readonly].txt {BACKGROUND: #f2f2f2;}
+.tblDetailView .tdrow01 {PADDING-BOTTOM: 7px; PADDING-TOP: 7px;}
+.tblDetailView TD .deliveryBox {TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; WIDTH: 196px; PADDING-RIGHT: 0px; HEIGHT: 40px; COLOR: #ccc; FONT-SIZE: 11px; PADDING-TOP: 0px;}
+.tblDetailView TD .tdrowfl {WIDTH: 250px; DISPLAY: inline; FLOAT: left;}
+.tblDetailView TD .tdrowfr {TEXT-ALIGN: right; MARGIN: 0px 20px 0px 0px; WIDTH: 350px; DISPLAY: inline; FLOAT: right;}
+.tblDetailView TD .textareaWrap {}
+.tblDetailView TD .textareaView {PADDING-BOTTOM: 30px; OVERFLOW-X: auto; MIN-HEIGHT: 30px; PADDING-LEFT: 20px; WIDTH: 769px; PADDING-RIGHT: 20px; FONT: 12px/1.9em Verdana; COLOR: #888; OVERFLOW: hidden; PADDING-TOP: 30px;}
+
+.panelPadding 
+{
+    margin:0px 10px 15px 10px;
+}

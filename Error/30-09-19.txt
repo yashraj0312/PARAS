@@ -1,0 +1,18 @@
+
+
+Log Entry : 
+09/30/2019 22:23:21
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: The file '/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/30/2019 22:24:43
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: The file '/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/30/2019 22:27:12
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: The file '/Administrator/StudentDetails.aspx' does not exist.
+***********************************

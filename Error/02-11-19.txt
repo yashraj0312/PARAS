@@ -1,0 +1,337 @@
+
+
+Log Entry : 
+11/02/2019 00:39:10
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: The file '/Administrator/FacultyRegistration.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/02/2019 00:43:57
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\FacultyRegistration.aspx.cs(8): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+11/02/2019 00:44:06
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\FacultyRegistration.aspx.cs(8): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+11/02/2019 00:53:28
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\FacultyRegistration.aspx.cs(8): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:07:58
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:08:08
+Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:34:31
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:48:50
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:49:12
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:51:43
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:53:43
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 01:57:28
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 02:15:40
+Error in: http://localhost:49802/Student/default.aspx. Error Message: Error in: http://localhost:49802/Student/default.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\Default.aspx.cs(14): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+11/02/2019 02:16:23
+Error in: http://localhost:49802/Student/default.aspx. Error Message: Error in: http://localhost:49802/Student/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 02:53:54
+Error in: http://localhost:49802/Student/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Student/UserDetails.aspx. Error Message: The file '/Student/UserDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:29:47
+Error in: http://localhost:49802/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/BatchDetails.aspx. Error Message: The DELETE statement conflicted with the REFERENCE constraint "FK_SectionDetails_CourseDetails". The conflict occurred in database "dbBvicam", table "dbo.SectionDetails", column 'BatchId'.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:46:50
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Invalid column name 'SemesterName'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:47:01
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Invalid column name 'SemesterName'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:48:33
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:49:34
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:50:34
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Incorrect syntax near the keyword 'and'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:50:59
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Incorrect syntax near the keyword 'and'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:52:59
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Incorrect syntax near the keyword 'and'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:53:02
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Incorrect syntax near the keyword 'and'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 03:55:31
+Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/SemesterDetails.aspx. Error Message: Incorrect syntax near the keyword 'group'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 04:01:38
+Error in: http://localhost:49802/Student/SectionDetails.aspx. Error Message: Error in: http://localhost:49802/Student/SectionDetails.aspx. Error Message: The file '/Student/SectionDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/02/2019 04:01:43
+Error in: http://localhost:49802/Student/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Student/StudentDetails.aspx. Error Message: The file '/Student/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:38:28
+Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:38:28
+Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:38:30
+Error in: http://localhost:49802/Administrator/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Administrator/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:41:50
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:42:00
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 10:45:20
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: The method or operation is not implemented.
+***********************************
+
+
+Log Entry : 
+11/02/2019 11:51:25
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:17:46
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(73): error CS0103: The name 'upStudentDetailView' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:18:07
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(39): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'gridStudentDetails_RowDataBound' and no extension method 'gridStudentDetails_RowDataBound' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:18:31
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(73): error CS0103: The name 'upStudentDetailsView' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:20:13
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:34:15
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: A field or property with the name 'Phone' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:34:52
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: A field or property with the name 'Phone' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:38:59
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: A field or property with the name 'Phone' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:41:27
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: A field or property with the name 'CourseShortNmae' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+11/02/2019 12:41:36
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: A field or property with the name 'CourseShortNmae' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:06:39
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FacultyId'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:06:48
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'FacultyId'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:10:51
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:11:06
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:12:33
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:13:01
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:13:37
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:16:15
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:16:27
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:20:16
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:22:08
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:23:00
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************
+
+
+Log Entry : 
+11/02/2019 13:24:32
+Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/FacultyDetails.aspx. Error Message: Incorrect syntax near the keyword 'Order'.
+***********************************

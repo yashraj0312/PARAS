@@ -1,0 +1,78 @@
+
+
+Log Entry : 
+09/04/2019 16:02:44
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:03:03
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:44:31
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:44:45
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:45:06
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:45:11
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:45:19
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:45:48
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:49:53
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:50:15
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:54:42
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:55:37
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/04/2019 16:59:20
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************

@@ -1,0 +1,6 @@
+
+
+Log Entry : 
+08/30/2019 17:06:43
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: If FilterTypes.Custom is specified, please provide a value for ValidChars or InvalidChars
+***********************************

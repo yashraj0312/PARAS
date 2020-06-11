@@ -1,0 +1,96 @@
+﻿body {
+	font: normal 12px/17px Verdana, Geneva, sans-serif; 
+	color:#333;
+	margin:0px;
+	padding:0px;
+	line-height:25px;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    font-size:14px;
+    height:50px;
+    color: #333;
+    background-color:#F8F8F8;     
+}
+li {
+	float:left;
+	height:50px;
+	color:#333;	
+	font-size:14px;
+	vertical-align:middle;
+}
+li:last-child {
+    border-right: none;
+    height:50px;
+    color: #333;
+    background-color:#ebebeb;
+}
+li a {
+    display: block;
+    height:50px;
+    padding:24px 16px 0px 16px;
+    color:#333;
+    text-align:center;
+    vertical-align:middle;
+    text-decoration:none;
+    font-size:16px;
+}
+li a:hover:not(.active) {
+	height:50px;
+	color:White;
+    background-color:#990000;
+    text-decoration:none;
+}
+.active {
+	height:50px;
+	color:White;
+    background-color:#990000;
+}
+a {
+	color:#990000; text-decoration:none;
+}
+a:hover {
+	color:#333;
+	text-decoration:underline;
+}
+.txtClassLogin {
+	height:19px;
+	border:Solid 1px #DFDFDF;
+	padding-left:8px;
+	padding-top:4px;
+	padding-bottom:4px;
+	font-size:13px;
+}
+.txtClassLogin:focus {
+	outline-color:Gray;
+	}
+.btnClass {
+	background-color:#990000;         	
+	border-radius:3px;            	
+	font-size:13px;
+	color:White;
+	height:28px;
+	border:Solid 1px #990000;
+	
+}
+.btnClass:focus {
+	outline-color:Grey;
+}
+.btnClass:hover {
+	border-radius:3px; 
+	background-color:#BD3220; 
+	color:White; 
+	height:28px; 
+	border:Solid 1px #BD3220;
+	text-align:center;
+	}
+/*Message CSS*/
+.message {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding: 0px 0px 0px 20px; position:relative;margin:2px 0px 2px 0px;cursor:pointer; vertical-align:middle;}
+.message.success {color:#539B2D;background-color:#EBF8D6;background:url('../images/icoSuccess.png') 0px 0px no-repeat; line-height:22px;}
+.message.warning {background-color:#FEFDE2;color:#666666;background:url('../images/icoWarning.png') 0px 0px no-repeat; line-height:22px;}
+.message.error {background-color:#FFECE6;color:#842100;background:url('../images/icoError.png') 0px 0px no-repeat; line-height:22px;}
+.message.information {background-color:#D3EEF1;color:#369CAB;background:url('../images/icoInformation.png') 0px 0px no-repeat; line-height:22px; }

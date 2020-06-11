@@ -1,0 +1,198 @@
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\04-11-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:17:52
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Could not find a part of the path 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\EmailTemp\PasswordRecovery.htm'.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:38:31
+Error in: http://localhost:49802/Student/default.aspx. Error Message: Error in: http://localhost:49802/Student/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:46:37
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:46:58
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:47:07
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 09:47:29
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:00:28
+Error in: http://localhost:49802/Student/BatchDetails.aspx. Error Message: Error in: http://localhost:49802/Student/BatchDetails.aspx. Error Message: The file '/Student/BatchDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:04:37
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:05:33
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:06:05
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:06:22
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:08:28
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:09:41
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:09:51
+Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Error in: http://localhost:49802/Student/Profile.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:16:02
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: The file '/Administrator/AdministratorMaster.master' does not exist.
+***********************************
+
+
+Log Entry : 
+11/04/2019 10:16:23
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Cannot find ContentPlaceHolder 'cphAdministratorMaster' in the master page '/Administrator/AdminMaster.master', verify content control's ContentPlaceHolderID attribute in the content page.
+***********************************
+
+
+Log Entry : 
+11/04/2019 16:50:48
+Error in: http://localhost:49802/Faculty/Default.aspx. Error Message: Error in: http://localhost:49802/Faculty/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************

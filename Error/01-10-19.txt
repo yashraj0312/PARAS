@@ -1,0 +1,24 @@
+
+
+Log Entry : 
+10/01/2019 06:32:31
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentRegistration.aspx.cs(30): error CS0103: The name 'ddlBatch' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+10/01/2019 06:38:25
+Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Error in: http://localhost:49802/Administrator/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+10/01/2019 08:50:54
+Error in: http://localhost:49802/Administrator/StudentDeatails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDeatails.aspx. Error Message: The file '/Administrator/StudentDeatails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+10/01/2019 08:54:23
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: There can be only one 'page' directive.
+***********************************

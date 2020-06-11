@@ -1,0 +1,24 @@
+
+
+Log Entry : 
+10/08/2019 15:34:42
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Literal content ('<!--') is not allowed within a 'System.Web.UI.WebControls.DataControlFieldCollection'.
+***********************************
+
+
+Log Entry : 
+10/08/2019 15:35:04
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Literal content ('<!--') is not allowed within a 'System.Web.UI.WebControls.DataControlFieldCollection'.
+***********************************
+
+
+Log Entry : 
+10/08/2019 15:38:19
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/08/2019 15:38:43
+Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: The file '/Administrator/StudentList.aspx' does not exist.
+***********************************

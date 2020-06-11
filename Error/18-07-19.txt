@@ -1,0 +1,12 @@
+
+
+Log Entry : 
+07/18/2019 20:50:46
+Error in: http://localhost:64329/hackTemplate/Administrator/CourseCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/CourseCreation.aspx. Error Message: Unknown server tag 'asp:LinkButtorn'.
+***********************************
+
+
+Log Entry : 
+07/18/2019 20:51:27
+Error in: http://localhost:64329/hackTemplate/Administrator/CourseCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/CourseCreation.aspx. Error Message: Unknown server tag 'asp:LinkButtorn'.
+***********************************

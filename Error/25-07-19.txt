@@ -1,0 +1,198 @@
+
+
+Log Entry : 
+07/25/2019 11:11:25
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx(31): error CS1061: 'ASP.administrator_batchdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_batchdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:15:02
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx(31): error CS1061: 'ASP.administrator_batchdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_batchdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:39:16
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx(31): error CS1061: 'ASP.administrator_batchdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_batchdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:42:23
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx(31): error CS1061: 'ASP.administrator_batchdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_batchdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:45:29
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx.cs(56): error CS0103: The name 'gridCourseDetails' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:46:16
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx.cs(70): error CS0103: The name 'dlCourseDetail' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:46:19
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx.cs(70): error CS0103: The name 'dlCourseDetail' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:46:42
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx.cs(70): error CS0103: The name 'dlBatchDetails' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:47:32
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx.cs(70): error CS0103: The name 'dlBatchDetails' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 11:54:52
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: A field or property with the name 'BatchYear' was not found on the selected data source.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:12:56
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchCreation.aspx(43): error CS1061: 'ASP.administrator_batchcreation_aspx' does not contain a definition for 'btnSubmit_Click' and no extension method 'btnSubmit_Click' accepting a first argument of type 'ASP.administrator_batchcreation_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:28:00
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchCreation.aspx.cs(62): error CS0103: The name 'bId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:32:15
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchCreation.aspx.cs(120): error CS0103: The name 'bId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:02
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:04
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:04
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:04
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:18
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:19
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:36:19
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:39:44
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:39:46
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:39:46
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:52:02
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\BatchDetails.aspx(39): error CS1061: 'ASP.administrator_batchdetails_aspx' does not contain a definition for 'gridBatchDetails_SelectedIndexChanged' and no extension method 'gridBatchDetails_SelectedIndexChanged' accepting a first argument of type 'ASP.administrator_batchdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:57:18
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:57:22
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 19:57:22
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:17
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:17
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:17
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:18
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:18
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************
+
+
+Log Entry : 
+07/25/2019 20:01:18
+Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/BatchDetails.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CreationDate'.
+***********************************

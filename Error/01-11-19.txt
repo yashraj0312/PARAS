@@ -1,0 +1,66 @@
+
+
+Log Entry : 
+11/01/2019 00:04:48
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:06:55
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:06:58
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:37:38
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:37:48
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentRegistration.aspx.cs(105): error CS0103: The name 'txtPhone' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:39:42
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentRegistration.aspx.cs(105): error CS0103: The name 'txtPhone' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:40:16
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentRegistration.aspx.cs(159): error CS0103: The name 'txtPassword' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:44:24
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:45:23
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+11/01/2019 00:47:13
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+11/01/2019 02:17:53
+Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentRegistration.aspx. Error Message: The ID 'rfvPhone' is already used by another control.
+***********************************

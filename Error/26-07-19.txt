@@ -1,0 +1,157 @@
+
+
+Log Entry : 
+07/26/2019 13:47:23
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:47:36
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:48:04
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:48:09
+Error in: http://localhost:64329/hackTemplate/Administrator/AdminMaster.master. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/AdminMaster.master. Error Message: Path '/hackTemplate/Administrator/AdminMaster.master' is forbidden.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:48:25
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:48:42
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Invalid object name 'BatchDetais'.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:49:55
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx.cs. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx.cs. Error Message: Path '/hackTemplate/Administrator/SectionDetails.aspx.cs' is forbidden.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:51:56
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:52:35
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:52:51
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 13:59:12
+Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:00:45
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Invalid object name 'BatchDetais'.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:02:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Invalid object name 'BatchDetais'.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:03:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionDetails.aspx. Error Message: Invalid object name 'BatchDetais'.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:04:32
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: The file '/hackTemplate/Administrator/SectionCreation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:11:32
+Error in: http://localhost:64329/hackTemplate/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+07/26/2019 14:11:54
+Error in: http://localhost:64329/hackTemplate/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+07/26/2019 15:19:36
+Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: The file '/hackTemplate/Administrator/SecttionCreation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 15:20:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: The file '/hackTemplate/Administrator/SecttionCreation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 15:20:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SecttionCreation.aspx. Error Message: The file '/hackTemplate/Administrator/SecttionCreation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/26/2019 15:20:15
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SectionCreation.aspx(60): error CS1061: 'ASP.administrator_sectioncreation_aspx' does not contain a definition for 'btnSubmit_Click' and no extension method 'btnSubmit_Click' accepting a first argument of type 'ASP.administrator_sectioncreation_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/26/2019 16:13:46
+Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SectionCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SectionCreation.aspx(29): error CS1061: 'ASP.administrator_sectioncreation_aspx' does not contain a definition for 'ddlCourse_SelectedIndexChanged' and no extension method 'ddlCourse_SelectedIndexChanged' accepting a first argument of type 'ASP.administrator_sectioncreation_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/26/2019 16:25:56
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: The multi-part identifier "c.AcademicSession" could not be bound.
+***********************************
+
+
+Log Entry : 
+07/26/2019 16:27:13
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: The multi-part identifier "c.AcademicSession" could not be bound.
+***********************************
+
+
+Log Entry : 
+07/26/2019 16:28:06
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: The multi-part identifier "c.AcademicSession" could not be bound.
+The multi-part identifier "c.AcademicSession" could not be bound.
+***********************************
+
+
+Log Entry : 
+07/26/2019 16:28:38
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterDetails.aspx. Error Message: The multi-part identifier "c.Session" could not be bound.
+***********************************

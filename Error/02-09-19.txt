@@ -1,0 +1,6 @@
+
+
+Log Entry : 
+09/02/2019 14:17:39
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************

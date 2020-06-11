@@ -1,0 +1,252 @@
+
+
+Log Entry : 
+11/05/2019 03:05:03
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ChangePassword.aspx.cs(99): error CS1026: ) expected
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:30:20
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\Profile.aspx.cs(53): error CS1002: ; expected
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:30:54
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\Profile.aspx.cs(53): error CS1002: ; expected
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:31:16
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\Profile.aspx.cs(53): error CS1002: ; expected
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:31:57
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\Profile.aspx.cs(53): error CS1502: The best overloaded method match for 'string.ToString(System.IFormatProvider)' has some invalid arguments
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:32:42
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\Profile.aspx.cs(53): error CS1502: The best overloaded method match for 'string.ToString(System.IFormatProvider)' has some invalid arguments
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:38:48
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:39:26
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:39:32
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:39:56
+Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserCreation.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:48:43
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\UserDetails.aspx.cs(88): error CS0103: The name 'txtLoginId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:50:44
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:51:59
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:52:17
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:52:18
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:52:18
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:53:30
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:41
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:41
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:42
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:42
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:43
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:43
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:44
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:44
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:54:45
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 03:56:29
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Invalid attempt to read when no data is present.
+***********************************
+
+
+Log Entry : 
+11/05/2019 14:22:04
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Invalid column name 'Project'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 14:23:19
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Type 'System.Web.UI.WebControls.FileUpload' does not have a public property named 'Label'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 14:23:20
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Type 'System.Web.UI.WebControls.FileUpload' does not have a public property named 'Label'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 14:23:21
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Type 'System.Web.UI.WebControls.FileUpload' does not have a public property named 'Label'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 14:30:10
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Unable to find control id 'txtFileUpload1' referenced by the 'ControlToValidate' property of 'RequiredFieldValidator1'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 15:36:55
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ProjectSubmission.aspx(36): error CS1061: 'ASP.student_projectsubmission_aspx' does not contain a definition for 'ddlBatch_SelectedIndexChanged' and no extension method 'ddlBatch_SelectedIndexChanged' accepting a first argument of type 'ASP.student_projectsubmission_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+11/05/2019 15:51:28
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'AndCourseId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 15:51:32
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'AndCourseId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 15:59:58
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'AndCourseId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 21:21:43
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(93): error CS0103: The name 'sId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/05/2019 21:21:59
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(93): error CS0103: The name 'sId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/05/2019 21:35:24
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'AndCourseId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 21:37:11
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'AndCourseId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 21:40:16
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectId'.
+***********************************
+
+
+Log Entry : 
+11/05/2019 22:33:27
+Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectSubmission.aspx. Error Message: Session state can only be used when enableSessionState is set to true, either in a configuration file or in the Page directive. Please also make sure that System.Web.SessionStateModule or a custom session state module is included in the <configuration>\<system.web>\<httpModules> section in the application configuration.
+***********************************

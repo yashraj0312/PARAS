@@ -1,0 +1,894 @@
+
+
+Log Entry : 
+07/20/2019 00:04:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:04:40
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:08:37
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:08:46
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:11:01
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The ID 'txtSemesterNumber' is already used by another control.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:11:34
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The ID 'txtSemesterNumber' is already used by another control.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:12:55
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The ID 'rfvSemesterNumber' is already used by another control.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:14:27
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx(36): error CS1061: 'ASP.administrator_semestercreation_aspx' does not contain a definition for 'txtSemesterNumber_TextChanged' and no extension method 'txtSemesterNumber_TextChanged' accepting a first argument of type 'ASP.administrator_semestercreation_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:17
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:21
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:21
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:22
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:25
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:25
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:26
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:27
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:17:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:30
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:31
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:31
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:31
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:32
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:32
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:18:32
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:21:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The ID 'fteDurationYear' is already used by another control.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:07
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:09
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:09
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:10
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:11
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:11
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:13
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:13
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:13
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:23:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:18
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:21
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:26:22
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:27:11
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx.cs(47): error CS1501: No overload for method 'CheckExistence' takes 4 arguments
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:27:40
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx.cs(47): error CS1501: No overload for method 'CheckExistence' takes 4 arguments
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:22
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:25
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:38:25
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:20
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:39:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:40:56
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:40:57
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:40:58
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:40:58
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:10
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:13
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:15
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:15
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:43:15
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:44:23
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx.cs(51): error CS1525: Invalid expression term 'else'
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:45:46
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:45:47
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:45:47
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:45:48
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:45:48
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:47:06
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Session'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:47:07
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Session'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:47:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Session'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:47:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Session'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:47:08
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Session'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:14
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:25
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:26
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:27
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 00:54:29
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:37
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:39
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:39
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:39
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:40
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:01:40
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'Semester'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:11
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:12
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:17
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:18
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:18
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:14:24
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near ''.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:16:57
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:16:59
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:16:59
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:16:59
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:17:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:17:04
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:17:05
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:16
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:17
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:17
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:18
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:18
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 01:27:19
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Incorrect syntax near the keyword 'And'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:15:00
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx.cs(80): error CS0103: The name 'txtShortCourseName' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:16:28
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\SemesterCreation.aspx.cs(81): error CS0103: The name 'txtShortCourseName' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:01
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:03
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:04
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:05
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:05
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:05
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:06
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:06
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************
+
+
+Log Entry : 
+07/20/2019 10:46:10
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Invalid column name 'SemesterNo'.
+***********************************

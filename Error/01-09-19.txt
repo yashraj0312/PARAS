@@ -1,0 +1,78 @@
+
+
+Log Entry : 
+09/01/2019 21:07:02
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:07:12
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SemesterId'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:22:09
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SemesterId'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:22:10
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SemesterId'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:22:20
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:22:30
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SemesterId'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:23:15
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:23:33
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'SemesterId'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:25:32
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:27:32
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistration.aspx. Error Message: Unable to find control id 'txtSectionName' referenced by the 'ControlToValidate' property of 'rfvSectionName'.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:32:01
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentDetails.aspx. Error Message: The file '/hackTemplate/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:32:14
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentR.aspegistrationx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentR.aspegistrationx. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+09/01/2019 21:32:21
+Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistrationx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/StudentRegistrationx. Error Message: File does not exist.
+***********************************

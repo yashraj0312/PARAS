@@ -1,0 +1,238 @@
+
+
+Log Entry : 
+07/17/2019 10:44:14
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:44:15
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:45:49
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:45:52
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:45:59
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:46:12
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:47:21
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:47:22
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:48:24
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:49:58
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:50:00
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:50:43
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:51:43
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:51:45
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:51:47
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:13
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:16
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:24
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:31
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:32
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:32
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:52:41
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:55:05
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:55:18
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 10:55:33
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:03:54
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:06:43
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:10:54
+Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Login.aspx. Error Message: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:15:38
+Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\UserDetails.aspx.cs(17): error CS0234: The type or namespace name 'Reporting' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:16:52
+Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\UserDetails.aspx.cs(17): error CS0234: The type or namespace name 'Reporting' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:18:20
+Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/UserDetails.aspx. Error Message: c:\my drive\Project\hackTemplate\Administrator\UserDetails.aspx.cs(17): error CS0234: The type or namespace name 'Reporting' does not exist in the namespace 'Microsoft' (are you missing an assembly reference?)
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:19:25
+Error in: http://localhost:64329/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:64329/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:29:42
+Error in: http://localhost:64329/hackTemplate/Researcher/CouncilInformation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Researcher/CouncilInformation.aspx. Error Message: The file '/hackTemplate/Researcher/CouncilInformation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:29:45
+Error in: http://localhost:64329/hackTemplate/Researcher/PrintForm.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Researcher/PrintForm.aspx. Error Message: The file '/hackTemplate/Researcher/PrintForm.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+07/17/2019 11:31:18
+Error in: http://localhost:64329/hackTemplate/Administrator/Profile.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/Profile.aspx. Error Message: The file '/hackTemplate/Administrator/Profile.aspx' does not exist.
+***********************************

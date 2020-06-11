@@ -1,0 +1,120 @@
+
+
+Log Entry : 
+10/14/2019 16:06:26
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:06:56
+Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Content ('<!--') does not match any properties within a 'System.Web.UI.WebControls.DataList', make sure it is well-formed.
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:07:50
+Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentList.aspx(31): error CS1061: 'ASP.administrator_studentlist_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentlist_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:09:35
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:09:47
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:11:25
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:12:49
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:13:40
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:13:57
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:14:25
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:15:02
+Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentList.aspx(31): error CS1061: 'ASP.administrator_studentlist_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentlist_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:15:23
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:16:23
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:16:31
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(31): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:17:15
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(77): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'ibtnView_Click' and no extension method 'ibtnView_Click' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:22:36
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(39): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'gridStudentDetails_RowDataBound' and no extension method 'gridStudentDetails_RowDataBound' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:25:50
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx(39): error CS1061: 'ASP.administrator_studentdetails_aspx' does not contain a definition for 'gridStudentDetails_RowDataBound' and no extension method 'gridStudentDetails_RowDataBound' accepting a first argument of type 'ASP.administrator_studentdetails_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:28:54
+Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentList.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentList.aspx(31): error CS1061: 'ASP.administrator_studentlist_aspx' does not contain a definition for 'lbtnPrint_Click' and no extension method 'lbtnPrint_Click' accepting a first argument of type 'ASP.administrator_studentlist_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:45:02
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(19): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+10/14/2019 16:46:49
+Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/StudentDetails.aspx. Error Message: c:\Users\Heman\Documents\Visual Studio 2015\Projects\hackTemplate\Administrator\StudentDetails.aspx.cs(19): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************

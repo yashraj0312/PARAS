@@ -1,0 +1,180 @@
+
+
+Log Entry : 
+11/06/2019 00:10:10
+Error in: http://localhost:49802/Faculty/default.aspx. Error Message: Error in: http://localhost:49802/Faculty/default.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Faculty\Default.aspx.cs(14): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:13:06
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near ','.
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:15:17
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near ','.
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:17:21
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near the keyword 'AND'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:18:47
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near ','.
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:19:23
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near ','.
+***********************************
+
+
+Log Entry : 
+11/06/2019 01:20:59
+Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Administrator/UserDetails.aspx. Error Message: Incorrect syntax near ','.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:07:19
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:07:32
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:08:14
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:12:54
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Faculty\ProjectSubmission.aspx(102): error CS1061: 'ASP.faculty_projectsubmission_aspx' does not contain a definition for 'btnSubmit_Click' and no extension method 'btnSubmit_Click' accepting a first argument of type 'ASP.faculty_projectsubmission_aspx' could be found (are you missing a using directive or an assembly reference?)
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:13:20
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Course'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:17:46
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:18:03
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: The file '/Faculty/ProjectReview.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:18:21
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Faculty\ProjectReview.aspx.cs(70): error CS0103: The name 'dlProjectDetail' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:22:19
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'CourseShortName'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:23:17
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Batch'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:32:51
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:33:27
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: The IListSource does not contain any data sources.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:37:39
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:38:26
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:44:20
+Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectReview.aspx. Error Message: Incorrect syntax near 'UserDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 02:51:06
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 03:15:54
+Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Error in: http://localhost:49802/Faculty/ProjectSubmission.aspx. Error Message: Incorrect syntax near 'ProjectDetails'.
+***********************************
+
+
+Log Entry : 
+11/06/2019 04:15:58
+Error in: http://localhost:49802/Student/ProjectComment.aspx. Error Message: Error in: http://localhost:49802/Student/ProjectComment.aspx. Error Message: The file '/Student/ProjectComment.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/06/2019 04:41:41
+Error in: http://localhost:49802/Student/UserDetails.aspx. Error Message: Error in: http://localhost:49802/Student/UserDetails.aspx. Error Message: The file '/Student/UserDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/06/2019 05:09:35
+Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ViewComment.aspx.cs(44): error CS0103: The name 'pId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/06/2019 05:09:49
+Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ViewComment.aspx.cs(44): error CS0103: The name 'pId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/06/2019 05:09:50
+Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ViewComment.aspx.cs(44): error CS0103: The name 'pId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/06/2019 05:40:01
+Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: Error in: http://localhost:49802/Student/ViewComment.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Student\ViewComment.aspx.cs(48): error CS1012: Too many characters in character literal
+***********************************

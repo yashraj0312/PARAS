@@ -1,0 +1,192 @@
+
+
+Log Entry : 
+01/12/2018 21:03:08
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:03:10
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:03:17
+Error in: http://localhost:58728/hackTemplate/Researcher/PrintForm.aspx. Error Message: Error in: http://localhost:58728/hackTemplate/Researcher/PrintForm.aspx. Error Message: The file '/hackTemplate/Researcher/PrintForm.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:03:20
+Error in: http://localhost:58728/hackTemplate/Researcher/CouncilInformation.aspx. Error Message: Error in: http://localhost:58728/hackTemplate/Researcher/CouncilInformation.aspx. Error Message: The file '/hackTemplate/Researcher/CouncilInformation.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:03:22
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:04:22
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:04:35
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:05:52
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:07:42
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:07:55
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:09:08
+Error in: http://localhost:58728/hackTemplate/Researcher/SubmissionGuidelines.aspx. Error Message: Error in: http://localhost:58728/hackTemplate/Researcher/SubmissionGuidelines.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:09:50
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:10:13
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:10:44
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:10:56
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:11:13
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:12:05
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:12:34
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:13:02
+Error in: http://localhost:58728/hackTemplate/Researcher/Default.aspx. Error Message: Error in: http://localhost:58728/hackTemplate/Researcher/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:13:20
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:13:41
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:13:50
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:14:00
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:14:18
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:14:46
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:15:05
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:15:52
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:16:13
+Error in: http://localhost:58728/hackTemplate/Researcher/Default.aspx. Error Message: Error in: http://localhost:58728/hackTemplate/Researcher/Default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:16:29
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:17:09
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:17:59
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************
+
+
+Log Entry : 
+01/12/2018 21:18:16
+Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: Error in: http://localhost:58728/hackTemplate/images/logoItm.jpg. Error Message: File does not exist.
+***********************************

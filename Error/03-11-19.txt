@@ -1,0 +1,138 @@
+
+
+Log Entry : 
+11/03/2019 00:35:04
+Error in: http://localhost:49802/Faculty/StudentRegistration.aspx. Error Message: Error in: http://localhost:49802/Faculty/StudentRegistration.aspx. Error Message: The file '/Faculty/StudentRegistration.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/03/2019 00:35:11
+Error in: http://localhost:49802/Faculty/SectionDetails.aspx. Error Message: Error in: http://localhost:49802/Faculty/SectionDetails.aspx. Error Message: The file '/Faculty/SectionDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+11/03/2019 00:37:39
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/03/2019 00:49:59
+Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Error in: http://localhost:49802/Administrator/default.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/03/2019 01:05:24
+Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Error in: http://localhost:49802/Student/ChangePassword.aspx. Error Message: Object reference not set to an instance of an object.
+***********************************
+
+
+Log Entry : 
+11/03/2019 01:20:10
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Invalid object name 'Profile'.
+***********************************
+
+
+Log Entry : 
+11/03/2019 01:21:41
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'UserId'.
+***********************************
+
+
+Log Entry : 
+11/03/2019 01:22:52
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'UserId'.
+***********************************
+
+
+Log Entry : 
+11/03/2019 01:23:50
+Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Error in: http://localhost:49802/Administrator/Profile.aspx. Error Message: Invalid object name 'Profile'.
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:27
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: The specified string is not in the form required for an e-mail address.
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:28
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:28
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:32
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:33
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:33
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:10:34
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\ForgetPassword.aspx.cs(27): error CS0103: The name 'txtEmailId' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:23:20
+Error in: http://localhost:49802/Login.aspx. Error Message: Error in: http://localhost:49802/Login.aspx. Error Message: c:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Login.aspx.cs(79): error CS0103: The name 'lblMessage' does not exist in the current context
+***********************************
+
+
+Log Entry : 
+11/03/2019 02:31:33
+Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Error in: http://localhost:49802/ForgetPassword.aspx. Error Message: Unexpected end of file looking for </ContentTemplate> tag.
+***********************************

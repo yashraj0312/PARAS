@@ -1,0 +1,60 @@
+
+
+Log Entry : 
+10/31/2019 16:22:45
+Error in: http://localhost:64329/Administrator/StudentDetails.aspx. Error Message: Error in: http://localhost:64329/Administrator/StudentDetails.aspx. Error Message: The file '/Administrator/StudentDetails.aspx' does not exist.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: Error in: http://localhost:49802/Login.aspx. Error Message: The network path was not found
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************
+
+
+Log Entry : 
+10/31/2019 16:33:28
+Error in: http://localhost:49802/Login.aspx. Error Message: The process cannot access the file 'C:\Users\dell\Documents\Visual Studio 2015\Projects\hackTemplate\Error\31-10-19.txt' because it is being used by another process.
+***********************************

@@ -1,0 +1,12 @@
+
+
+Log Entry : 
+07/19/2019 23:58:56
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
+
+
+Log Entry : 
+07/19/2019 23:59:49
+Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: Error in: http://localhost:64329/hackTemplate/Administrator/SemesterCreation.aspx. Error Message: The TargetControlID of 'ftePhoneNo' is not valid. A control with ID 'txtPhoneNo' could not be found.
+***********************************
